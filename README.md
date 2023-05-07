@@ -118,7 +118,7 @@ Build a PostgreSQL Stock Database, and update it everyday with latest market dat
 
 ## II. Project Breakdown
 
-### 1.  Part 1: Create SQL Database
+### 1.  Create SQL Database
 
 #### a.  Overview
 
@@ -147,7 +147,7 @@ Build a PostgreSQL Stock Database, and update it everyday with latest market dat
 
 -   Column 5-7 will be updated everyday
 
-### 2.  Part 2: Using Python to update SQL table
+### 2.  Using Python to update SQL table
 
 #### a.  Overview
 
@@ -173,7 +173,7 @@ Build a PostgreSQL Stock Database, and update it everyday with latest market dat
 
 -   "localhost" (127.0.0.1) & port 5432 is used for PostgreSQL.
 
-### 3.  Part 3: Using cron to automatically run S2 everyday
+### 3.  Using cron to automatically run S2 everyday
 
 #### a.  Overview
 
