@@ -7,4 +7,4 @@ cd /home/steve/Downloads/buildding_and_updating_stock_database
 source venv3.10/bin/activate
 
 # Update the PostgreSQL table with the new data
-/bin/python3 "/home/steve/Downloads/buildding_and_updating_stock_database/(son)python_update_db.py"
+/bin/python3 "/home/erik/Downloads/buildding_and_updating_stock_database/python_update_db.py"
