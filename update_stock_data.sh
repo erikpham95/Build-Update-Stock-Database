@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the directory containing the Python script
-cd /home/steve/Downloads/buildding_and_updating_stock_database
+cd /home/erik/Downloads/buildding_and_updating_stock_database
 
 # Activate the virtual environment containing the required Python packages
 source venv3.10/bin/activate
